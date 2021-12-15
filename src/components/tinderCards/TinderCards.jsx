@@ -6,15 +6,15 @@ function TinderCards() {
     const [people, setPeople] = useState([
         {
             name: "Joshua Ajagbe",
-            url: "https://scontent.fabv2-2.fna.fbcdn.net/v/t39.30808-6/257372081_4574482252666042_6130924132145239511_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEc4TecVapeZbZexurj1_StbpouA1mH5M9umi4DWYfkz9xp1ENkWU3jHPFgTDh1lrEzOWjVl_-XdU9_eYL_IzpI&_nc_ohc=4Gpb1iYHN80AX-_UETF&_nc_zt=23&_nc_ht=scontent.fabv2-2.fna&oh=e406c84b5e6f43652d977283de061e23&oe=61B4B245"
+            url: "https://scontent.fabv2-2.fna.fbcdn.net/v/t39.30808-6/p526x395/257372081_4574482252666042_6130924132145239511_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEc4TecVapeZbZexurj1_StbpouA1mH5M9umi4DWYfkz9xp1ENkWU3jHPFgTDh1lrEzOWjVl_-XdU9_eYL_IzpI&_nc_ohc=eSTo2AAyt-AAX9k5aO5&_nc_zt=23&_nc_ht=scontent.fabv2-2.fna&oh=00_AT9wtiAtVRNjqk4t-Ywz_d5BQ1wKb_-3GaOh52_CFbR1Bw&oe=61BEF928"
         },
         {
-            name: "Joshua Ajagbe",
-            url: "https://scontent.fabv2-2.fna.fbcdn.net/v/t1.6435-9/128744147_3577962548984689_4581502833551902025_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEhtbOCO-smS90IICdH0aw5kygwLUi_SqGTKDAtSL9KoSjjlqlFVpd_GoQhKNbbw_ekF7lYnRqefiOZ2GTgnpE_&_nc_ohc=MYr8529zLb0AX8WMNZY&_nc_ht=scontent.fabv2-2.fna&oh=a1c3d8bbd0c31d634d716a0eb41f5318&oe=61D66F04"
+            name: "Jeff Bezos",
+            url: "https://i.insider.com/6093e1f434af8d001859bbf5?width=1136&format=jpeg"
         },
         {
             name: "Elon Musk",
-            url: "https://upload.wikimedia.org/wikipedia/commons/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg"
+            url: "https://cdn.pixabay.com/photo/2021/03/09/23/49/elon-6083103__340.jpg"
         }
     ])
 
